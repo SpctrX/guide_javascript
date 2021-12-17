@@ -1,8 +1,8 @@
 # JavaScript Guide [ DE ]
 
-- [ ] add all packages
-- [ ] create all exercises
-- [ ] finished readme.md
+- [ ] alle Packages hinzufügen
+- [ ] alle Aufgaben ausbauen
+- [ ] README.md fertigstellen
 
 # Example List
 
